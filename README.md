@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System
+🎬 # Movie Recommendation System
 
 A simple yet effective Movie Recommendation System built using Bag of Words (BoW) and Cosine Similarity Score. This project transforms text-based movie data into a structured format and provides recommendations based on similarity scores. The system is deployed as an interactive Streamlit Web App. 🚀
 
